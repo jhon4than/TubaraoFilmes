@@ -1,0 +1,17 @@
+Emprestimos
+01;01;01;20.00;01/10/2020;10/10/2020;0.0;A;
+02;01;03;20.00;01/10/2020;10/10/2020;0.0;A;
+03;04;02;120.00;01/10/2020;10/10/2020;0.0;I;
+
+Usuarios
+01;Sávio;savio;123;C;A;
+02;Pedro;pedro;123;A;A;
+03;José;jose;123;R;A;
+04;Paulo;paulo;123;C;I;
+
+Filmes
+01;Carros;desenho;20.00;5;A;
+02;Atirador;Acao;20.00;5;A;
+03;Dark;Mistério;20.00;5;A;
+
+

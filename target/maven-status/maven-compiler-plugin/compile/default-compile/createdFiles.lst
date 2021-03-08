@@ -1,0 +1,6 @@
+br\com\tubaraoof\controller\MenuController.class
+br\com\tubaraoof\util\Util.class
+br\com\tubaraoof\view\MenuView.class
+br\com\tubaraoof\service\MenuService.class
+br\com\tubaraoof\singleton\UsuarioLogado.class
+br\com\tubaraoof\main\Main.class
